@@ -25,5 +25,5 @@ python3 checker.py -u urls.txt -cl
 ```
 Highlight pages that contain error-words after rendering:
 ```shell
-python3 checker.py -u urls.txt -ew
+python3 checker.py -u urls.txt -ew Page Not Found
 ```
