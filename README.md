@@ -9,6 +9,6 @@ options:
   -ew Error-words       Filter by Error-words
 ```
 ### Options
-`-h` - show help message
-`-u`, `--urls` - path to file with target urls (required)
+`-h` - show help message  
+`-u`, `--urls` - path to file with target urls (required)  
 `-cl` - 
