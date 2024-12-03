@@ -11,4 +11,5 @@ options:
 ### Options
 `-h` - show help message  
 `-u`, `--urls` - path to file with target urls (required)  
-`-cl` - 
+`-cl` - choose this option to get length of target page  
+`-ew` - write the words that are on the page with the error
