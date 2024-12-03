@@ -19,24 +19,24 @@ options:
 `-sp` - take a screenshot for each page. A "checker_screenshots" folder will be created where the screenshots will be saved (optional, default: False)
 
 ### Examples
-Get the length of each page after rendering:
+**Get the length of each page after rendering:**
 ```shell
 python3 checker.py -u urls.txt -cl
 ```
 
-Highlight pages that contain error-words after rendering:
+**Highlight pages that contain error-words after rendering:**
 ```shell
 python3 checker.py -u urls.txt -ew "Page Not Found"
 ```
 
-Take a screenshot for each page after rendering:
+**Take a screenshot for each page after rendering:**
 ```shell
 python3 checker.py -u urls.txt -sp
 ```
 The results will be saved to the "checker_screenshots" folder.
 
 
-All at once:
+**All at once:**
 ```shell
 python3 checker.py -u urls.txt -cl -ew "Page Not Found" -sp
 ```
