@@ -13,6 +13,6 @@ options:
 ### Options
 `-h` - show help message  
 `-u`, `--urls` - path to file with target urls (required)  
-`-cl` - choose this option to get length of target page  
-`-ew` - write the words that are on the page with the error
+`-cl` - choose this option to get length of target page (optional, default: False)  
+`-ew` - write the words that are on the page with the error (optional, default: None)
 
