@@ -1,5 +1,5 @@
 # ajaxPagesChecker
-This CLI-tool helps to work with Single-page applications, it opens a headless browser and analyzes the page after rendering, thereby allowing you to determine the length of the page after rendering and the presence of any specific words. 
+This simple CLI-tool helps to work with Single-page applications, it opens a headless browser and analyzes the page after rendering, thereby allowing you to determine the length of the page after rendering and the presence of any specific words. 
  
 ## Usage
 ```
