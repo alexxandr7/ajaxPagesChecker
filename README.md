@@ -18,3 +18,9 @@ options:
 `-ew` - write the words that are on the page with the error. (optional, default: None)  
 `-sp` - take a screenshot for each page. A "checker_screenshots" folder will be created where the screenshots will be saved (optional, default: False)
 
+### Examples
+Get the length of each page after rendering:
+```shell
+python3 checker.py -u urls.txt -cl
+```
+
